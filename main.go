@@ -5,6 +5,9 @@ import "fmt"
 func main() {
 	println("Task 1")
 
+	
+	
+	
 	var a rune
 	for a = 48; a <= 57; a++ {
 		fmt.Printf("%c", a)
